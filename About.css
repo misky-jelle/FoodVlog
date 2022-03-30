@@ -1,0 +1,32 @@
+h1{
+    font-size: 70px;
+    color:brown;
+    margin-left: 30%;
+}
+h2{
+    font-size: 50px;
+    color: chocolate;
+    margin-left: 15%;
+
+}
+h3{
+    font-size: 70px;
+    color:brown;
+    margin-left: 40%;
+}
+h4{
+    font-size: 50px;
+    color: chocolate;
+    margin-left: 40%;
+}
+body{
+    background-image: url("/img/back.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+nav{
+    font-size: 40px;
+    color: chocolate;
+  }
