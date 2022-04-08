@@ -1,26 +1,23 @@
 h1{
     font-size: 70px;
-    color:brown;
+    color:maroon;
     margin-left: 30%;
 }
 h2{
     font-size: 50px;
-    color: chocolate;
+    color: white;
     margin-left: 15%;
 
 }
 h3{
-    font-size: 70px;
-    color:brown;
-    margin-left: 40%;
-}
-h4{
-    font-size: 50px;
-    color: chocolate;
-    margin-left: 40%;
+    font-size: 40px;
+    color:maroon;
+    margin-left:30%;
+
+
 }
 body{
-    background-image: url("/img/back.jpeg");
+    background-image: url("/img/black.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -28,5 +25,8 @@ body{
 }
 nav{
     font-size: 40px;
-    color: chocolate;
+    color: maroon;
+  }
+  a{
+    color: white;
   }
